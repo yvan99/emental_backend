@@ -1,10 +1,10 @@
 <?php
 $GLOBALS['config'] = array(
     'mysql' => array(
-                'host'=>'107.184.50.240',
-                'username'=>'orgnihe',
+                'host'=>'freedb.tech',
+                'username'=>'freedbtech_orgnihe',
                 'password'=>'.BrMO=*Owamz',
-                'db'=>'emental'
+                'db'=>'freedbtech_emental'
     ),
     'remember'=>array(
                 'cookie_name'=> 'hash',
