@@ -1,9 +1,9 @@
 <?php
 $GLOBALS['config'] = array(
     'mysql' => array(
-                'host'=>'127.0.0.1',
-                'username'=>'root',
-                'password'=>'',
+                'host'=>'107.184.50.240',
+                'username'=>'orgnihe',
+                'password'=>'.BrMO=*Owamz',
                 'db'=>'emental'
     ),
     'remember'=>array(
